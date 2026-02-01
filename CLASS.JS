@@ -18,5 +18,6 @@ console.count("click");
 console.count("click");
 console.count("click");
 console.count("click");
-console.dir(document.body);    //  IT IS USED TO SHOW THE PROPERTIES OF THE JAVASCRIPT
+
+console.log(1+2);
 
